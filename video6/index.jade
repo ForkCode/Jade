@@ -1,0 +1,19 @@
+// iterate over arrays
+ul
+    each val in [1, 2, 3, 4, 5]
+        li= val
+
+// can also use `for` keyword
+ul
+    for val in [1, 2, 3, 4, 5]
+        li= val
+
+// can get index while iteration
+ul
+    each val, index in ['zero', 'one', 'two']
+        li= index + ': ' + val
+
+// and iterating over keys in objects
+ul
+    each val, index in {1:'one',2:'two',3:'three'}
+        li= index + ': ' + val
