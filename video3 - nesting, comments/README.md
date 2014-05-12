@@ -1,6 +1,8 @@
 Nesting and Comments
 =================
 
+### [Watch it on YouTube](https://www.youtube.com/watch?v=2TMRBSNRQTc)
+
 ### Nesting
 
 - Just add a new line and a tab per indent level

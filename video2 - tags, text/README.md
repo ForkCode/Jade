@@ -3,6 +3,8 @@ Tags and text
 
 - Karan Goel
 
+### [Watch it on YouTube](https://www.youtube.com/watch?v=VG6LI5D-oUs)
+
 ### Tags
 
 - First word is a tag

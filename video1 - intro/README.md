@@ -3,6 +3,8 @@ How to use Jade
 
 - Karan Goel
 
+### [Watch it on YouTube](https://www.youtube.com/watch?v=Hlpz1bTfbn4)
+
 ### What is Jade?
 
 - templating language
