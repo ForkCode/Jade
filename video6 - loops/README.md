@@ -3,6 +3,8 @@ How to use Jade
 
 ### Loops
 
+### [Watch it on YouTube](https://www.youtube.com/watch?v=GP_yMnBKBjw)
+
 - Iteration over arrays or objects
 
         ul
