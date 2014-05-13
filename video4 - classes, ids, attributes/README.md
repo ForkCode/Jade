@@ -3,6 +3,8 @@ How to use Jade
 
 ### IDs, Classes and Attributes
 
+### [Watch it on YouTube](https://www.youtube.com/watch?v=ysbPH8bxgZE)
+
 ### Classes and IDs
 
 - Use CSS selectors

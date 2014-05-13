@@ -3,6 +3,8 @@ How to use Jade
 
 ### Conditionals
 
+### [Watch it on YouTube](https://www.youtube.com/watch?v=AhUyWZfAVoA)
+
 - Simple `if/else` statements just like Javascript
 - No braces (yay)
 
